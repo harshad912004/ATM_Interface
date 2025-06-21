@@ -26,7 +26,7 @@ This project offers a simplified yet functional ATM interface that ensures secur
 - **Pin_Change.java** – Provides functionality to change the user’s PIN securely.
 - **Transactions.java** – Tracks and logs user transactions.
 - **Withdraw.java** – Handles cash withdrawal operations.
-- **Signupone.java**, Signuptwo.java, Signupthree.java, Signupfour.java, Signupfive.java – Handle multi-step user registration and account setup.
+- **Signupone.java**, **Signuptwo.java**, **Signupthree.java**, **Signupfour.java**, **Signupfive.java** – Handle multi-step user registration and account setup.
 - **atm.jpg, logo.jpg** -Visual assets used in the interface.
 
 ---
